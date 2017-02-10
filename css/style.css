@@ -1,0 +1,40 @@
+*{margin: 0;
+	padding: 0;
+}
+.title{
+	width: 400px;
+	height: 70px;
+	margin: 0 auto;
+	padding-top: 30px;
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+	color: #f00;
+}
+.btns{
+	width: 190px;
+	height: 30px;
+	margin: 0 auto;
+
+}
+.btns span{
+	display: block;
+	float: left;
+	width: 80px;
+	height: 25px;
+	line-height: 25px;
+	background-color: #036;
+	border:  1px solid #eee;
+	//圆角
+	border-radius: 7px;
+	margin-right: 10px;
+	text-align: center;
+	//文本颜色
+	color: #FFF;
+	font-size: 14px;
+    // 光标变成pointerI型
+	cursor:pointer;
+	// 字体
+	// font-family: "微软雅黑"；
+
+}
